@@ -2,4 +2,8 @@
   "Core Version": {
     "coreVersion": "1.2.4"
   }
+    "Feature Versions":{
+	  "LensEffects": "2-0-0"
+	  "ImageBasedLighting": "1-0-0"
+  }
 }
