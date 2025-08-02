@@ -3,7 +3,8 @@
     "coreVersion": "1.3.9"
   },
   "Feature Versions":{
-	  "LensEffects": "1-0-0",
+	  "LensEffects": "2-0-0",
 	  "ImageBasedLighting": "1-0-0"
   }
 }
+
